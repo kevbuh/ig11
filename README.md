@@ -2,6 +2,10 @@
 
 # Next Steps
 
+- Math
+  - Back prop
+  - Forward pass
+  - Linear Algebra
 - Neural Network from scratch in C
   - Make sure I understand backpropagation at the lowest level
   - Nuts and Bolts approach
