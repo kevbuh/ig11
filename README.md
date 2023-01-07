@@ -6,6 +6,10 @@
   - Back prop
   - Forward pass
   - Linear Algebra
+- Libraries
+  - matplotlib
+  - numpy
+  - scikit-learn
 - Neural Network from scratch in C
   - Make sure I understand backpropagation at the lowest level
   - Nuts and Bolts approach
@@ -14,6 +18,7 @@
   - Really read and understand
   - Read multiple times
   - Highlight them
+- How to build a datacenter
 
 # AGI Loss Function:
 
