@@ -2,7 +2,7 @@
 
 This is a small amount of my research in AI with links to papers and jupyter notebooks.
 
-# Some things I need to do
+### Some things I need to do
 
 - Math
   - Back prop
@@ -22,7 +22,7 @@ This is a small amount of my research in AI with links to papers and jupyter not
   - Highlight them
 - How to build a datacenter
 
-# AGI Loss Function - What is the human loss function?
+### AGI Loss Function - What is the human loss function?
 
 We need to find out a general loss function so that AGI can learn from, something in the form of below
 
