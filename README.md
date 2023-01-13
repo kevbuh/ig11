@@ -1,8 +1,8 @@
-# IG-11
+# IG-11 - What is the human loss function
 
-This is a small amount of my research for AI papers and whatnot.
+This is a small amount of my research in AI with links to papers and jupyter notebooks.
 
-# Next Steps
+# Some things I need to do
 
 - Math
   - Back prop
