@@ -1,4 +1,4 @@
-# IG-11 - What is the human loss function
+# IG-11
 
 This is a small amount of my research in AI with links to papers and jupyter notebooks.
 
@@ -22,7 +22,7 @@ This is a small amount of my research in AI with links to papers and jupyter not
   - Highlight them
 - How to build a datacenter
 
-# AGI Loss Function:
+# AGI Loss Function - What is the human loss function?
 
 We need to find out a general loss function so that AGI can learn from, something in the form of below
 
