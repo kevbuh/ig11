@@ -1,5 +1,8 @@
 # IG-11
 
+“Everything should be made as simple as possible, but no simpler.”
+"Paradise is built and maintained by robots."
+
 This is a small amount of my research in AI with links to papers and jupyter notebooks.
 
 ### Some things I need to do
