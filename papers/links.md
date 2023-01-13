@@ -9,3 +9,5 @@ Attention is All Your need - https://arxiv.org/pdf/1706.03762.pdf
 Deep Reinforcement Learning from Human Preferences - https://arxiv.org/pdf/1706.03741.pdf
 
 Learning to Walk in 20 Minutes - https://arxiv.org/pdf/2208.07860.pdf
+
+Curiosity-Driven Learning - https://arxiv.org/pdf/1808.04355.pdf
