@@ -11,3 +11,5 @@ Deep Reinforcement Learning from Human Preferences - https://arxiv.org/pdf/1706.
 Learning to Walk in 20 Minutes - https://arxiv.org/pdf/2208.07860.pdf
 
 Curiosity-Driven Learning - https://arxiv.org/pdf/1808.04355.pdf
+
+Driven by Compression Progress - https://arxiv.org/pdf/0812.4360.pdf
