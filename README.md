@@ -1,5 +1,7 @@
 # IG-11
 
+This is a small amount of my research for AI papers and whatnot.
+
 # Next Steps
 
 - Math
