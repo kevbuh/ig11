@@ -22,8 +22,6 @@ Can a biologist fix a radio? (2002)- https://www.cell.com/cancer-cell/pdf/S1535-
 
 Could a Neuroscientist Understand a Microprocessor? (2017) - https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268
 
-“Everything should be made as simple as possible, but no simpler.”
-
-"Paradise is built and maintained by robots."
-
 AlphaZero (2017) - https://arxiv.org/pdf/1712.01815.pdf
+
+Visual Transformer - https://arxiv.org/pdf/2010.11929.pdf
