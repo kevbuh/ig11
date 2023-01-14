@@ -27,3 +27,5 @@ AlphaZero (2017) - https://arxiv.org/pdf/1712.01815.pdf
 Visual Transformer - https://arxiv.org/pdf/2010.11929.pdf
 
 State of Industrial Robots - https://www.therobotreport.com/wp-content/uploads/2021/01/2020-Research-Brief-Sanneman-Fourie-Shah.pdf
+
+Habitat: A Platform for Embodied AI Research - https://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf
