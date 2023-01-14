@@ -25,3 +25,5 @@ Could a Neuroscientist Understand a Microprocessor? (2017) - https://journals.pl
 AlphaZero (2017) - https://arxiv.org/pdf/1712.01815.pdf
 
 Visual Transformer - https://arxiv.org/pdf/2010.11929.pdf
+
+State of Industrial Robots - https://www.therobotreport.com/wp-content/uploads/2021/01/2020-Research-Brief-Sanneman-Fourie-Shah.pdf
