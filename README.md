@@ -1,6 +1,6 @@
 # IG-11
 
-“Everything should be made as simple as possible, but no simpler.”
+“Everything should be made as simple as possible, but no simpler.” - Einstein
 "Paradise is built and maintained by robots."
 
 This is a small amount of my research in AI with links to papers and jupyter notebooks.
@@ -24,6 +24,10 @@ This is a small amount of my research in AI with links to papers and jupyter not
   - Read multiple times
   - Highlight them
 - How to build a datacenter
+
+### Approach to Testing ML 
+![timeline for testing ML](https://www.jeremyjordan.me/content/images/2020/08/Group-7.png)
+
 
 ### AGI Loss Function - What is the human loss function?
 
