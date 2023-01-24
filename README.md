@@ -22,6 +22,10 @@ def agi_loss_fn(?,?,?...):
 
 ## Some things I need to do
 
+- Neural Network from scratch (John Carmack did it in C)
+  - Make sure I understand backpropagation at the lowest level
+    - Forward forward pass??? - https://arxiv.org/pdf/2212.13345.pdf
+  - Nuts and Bolts approach
 - Math
   - Back prop
   - Forward pass
@@ -30,15 +34,12 @@ def agi_loss_fn(?,?,?...):
   - matplotlib
   - numpy
   - scikit-learn
-- Neural Network from scratch in C
-  - Make sure I understand backpropagation at the lowest level
-  - Nuts and Bolts approach
 - Find reading list
   - Binder full of most important papers for ML
   - Really read and understand
   - Read multiple times
   - Highlight them
-- How to build a datacenter
+- How to build a datacenter?
 
 ### Approach to Testing ML 
 ![timeline for testing ML](https://www.jeremyjordan.me/content/images/2020/08/Group-7.png)
