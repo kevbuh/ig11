@@ -5,7 +5,19 @@
 
 This is a small amount of my research in AI with links to papers and jupyter notebooks.
 
-### Some things I need to do
+## What is the human loss function?
+
+We need to find out a general loss function so that AGI can learn from, something in the form of below
+
+```python
+def agi_loss_fn(?,?,?...):
+  """
+  A meta loss function, similar to that of a human
+  """
+  pass
+```
+
+## Some things I need to do
 
 - Math
   - Back prop
@@ -27,16 +39,3 @@ This is a small amount of my research in AI with links to papers and jupyter not
 
 ### Approach to Testing ML 
 ![timeline for testing ML](https://www.jeremyjordan.me/content/images/2020/08/Group-7.png)
-
-
-### AGI Loss Function - What is the human loss function?
-
-We need to find out a general loss function so that AGI can learn from, something in the form of below
-
-```python
-def agi_loss_fn(?,?,?...):
-  """
-  A meta loss function, similar to that of a human
-  """
-  pass
-```
